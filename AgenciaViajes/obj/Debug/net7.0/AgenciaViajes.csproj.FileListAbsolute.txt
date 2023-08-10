@@ -1,0 +1,15 @@
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/bin/Debug/net7.0/AgenciaViajes
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/bin/Debug/net7.0/AgenciaViajes.deps.json
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/bin/Debug/net7.0/AgenciaViajes.runtimeconfig.json
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/bin/Debug/net7.0/AgenciaViajes.dll
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/bin/Debug/net7.0/AgenciaViajes.pdb
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/AgenciaViajes.csproj.AssemblyReference.cache
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/AgenciaViajes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/AgenciaViajes.AssemblyInfoInputs.cache
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/AgenciaViajes.AssemblyInfo.cs
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/AgenciaViajes.csproj.CoreCompileInputs.cache
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/AgenciaViajes.dll
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/refint/AgenciaViajes.dll
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/AgenciaViajes.pdb
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/AgenciaViajes.genruntimeconfig.cache
+/Users/rinda/Documents/Itla/TrabajoFinal/AgenciaViajes/obj/Debug/net7.0/ref/AgenciaViajes.dll
